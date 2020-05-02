@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+h1{
+    align-content: center;
+    text-align: center;
+    color: rgb(89, 16, 173);
+    text-decoration: underline;
+    margin-bottom: 20px;
+    text-transform:uppercase;
+}
+input{
+    margin-right: 5px;
+}
+table{
+    background-color: rgb(89, 16, 173);
+color: white;
+}
+.lower{
+    text-transform:lowercase !important;
+    
+}
+td:nth-child(odd) {
+    text-transform:uppercase;
+}
+#qualification td{
+    text-transform:uppercase;
+}
